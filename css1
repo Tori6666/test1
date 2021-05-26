@@ -1,0 +1,9 @@
+.windowglav{
+background-color: #73021B;
+position: absolute;
+left: 80%;
+top: 80%;
+left: 50%;
+top: 50%;
+transform: translate(-180%, -600%);
+}
